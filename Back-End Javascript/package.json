@@ -1,0 +1,14 @@
+{
+  "name": "infolastblock",
+  "version": "0.1",
+  "description": "displays information about the latest block on Kusama, Polkadot or any other Substrate-based chain",
+  "main": "info.js",
+  "scripts": {
+    "start": "node info.js"
+  },
+  "author": "Simo Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.0.1"
+  }
+}
