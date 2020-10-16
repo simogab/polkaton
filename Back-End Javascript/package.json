@@ -7,7 +7,7 @@
     "start": "node info.js"
   },
   "author": "Simo Gabriel",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "@polkadot/api": "^2.0.1"
   }
