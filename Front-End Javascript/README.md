@@ -2,8 +2,6 @@ Hackathon: Hello World! by Polkadot
 
 Front-End Javascript
 
-https://simogab.github.io/substrate-front-end/
-
 # Substrate Front End Template
 
 This template allows you to create a front-end application that connects to a
