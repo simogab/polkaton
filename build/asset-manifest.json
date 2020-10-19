@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/substrate-front-end/static/js/main.71014ed5.chunk.js",
+    "main.js.map": "/substrate-front-end/static/js/main.71014ed5.chunk.js.map",
+    "runtime-main.js": "/substrate-front-end/static/js/runtime-main.d4fe592f.js",
+    "runtime-main.js.map": "/substrate-front-end/static/js/runtime-main.d4fe592f.js.map",
+    "static/css/2.71d887c5.chunk.css": "/substrate-front-end/static/css/2.71d887c5.chunk.css",
+    "static/js/2.772b6eb9.chunk.js": "/substrate-front-end/static/js/2.772b6eb9.chunk.js",
+    "static/js/2.772b6eb9.chunk.js.map": "/substrate-front-end/static/js/2.772b6eb9.chunk.js.map",
+    "index.html": "/substrate-front-end/index.html",
+    "precache-manifest.81106ba42e8e7c64a015be4841505d9a.js": "/substrate-front-end/precache-manifest.81106ba42e8e7c64a015be4841505d9a.js",
+    "service-worker.js": "/substrate-front-end/service-worker.js",
+    "static/css/2.71d887c5.chunk.css.map": "/substrate-front-end/static/css/2.71d887c5.chunk.css.map",
+    "static/js/2.772b6eb9.chunk.js.LICENSE.txt": "/substrate-front-end/static/js/2.772b6eb9.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/substrate-front-end/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4fe592f.js",
+    "static/css/2.71d887c5.chunk.css",
+    "static/js/2.772b6eb9.chunk.js",
+    "static/js/main.71014ed5.chunk.js"
+  ]
+}
